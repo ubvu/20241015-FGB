@@ -1,0 +1,170 @@
+---
+title: "Impact van onderzoek<br>bij VU Amsterdam"
+subtitle: "Ondersteuning door<br>Team Research Intelligence"
+author:
+  - name: Matthijs de Zwaan
+    # orcid: 0000-0002-6983-2118
+    email: researchintelligence.ub@vu.nl
+    affiliation: 
+      - name: Universiteitsbibliotheek
+        url: https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek/meer-over/team-research-intelligence-maakt-impact-inzichtelijk
+lang: nl
+date: "2024-10-15"
+date-format: "D MMMM YYYY, FBC FBG"
+format: 
+  revealjs:
+    slide-number: true
+    show-slide-number: print
+    theme: [simple, "stylefiles/VU-revealjs.scss"]
+    template-partials:
+      - "stylefiles/title-slide.html"
+    preview-links: auto
+    callout-icon: false
+    center: false
+    scrollable: true
+---
+
+## Onderzoeksimpact:<br>De rol van de UB
+
+::: { .callout-note }
+## Informatievoorziening
+Pure voor registratie<br>
+Toegang tot meta-data en afgeleide indicatoren<br>
+Advies over verantwoorde indicatoren
+:::
+
+:::: { .fragment fragment-index=4 .fade-out }
+
+::: { .fragment fragment-index=2 .absolute top="85%" left="5%" }
+Research Portal: <https://research.vu.nl/>
+:::
+
+![](img/rp-sdg.png){.fragment .shadow fragment-index=2 .absolute top="5%" left="10%" width="50%"}
+![](img/rp-altmetric.png){.fragment fragment-index=3 .shadow .absolute top="20%" left="20%" width="75%"}
+::::
+
+:::: {.fragment fragment-index=4}
+::: {.callout-note}
+## Meer actieve ondersteuning
+Analyse en interpretatie</br>
+Focus op strategische beslissingen</br>
+🎉 Team Research Intelligence 🎉
+:::
+::::
+
+## Wat voor ondersteuning?
+
+::: {.callout-note}
+## We ondersteunen door &#8230;
+- Gegevens binnen te halen<br>&emsp;&emsp;*voor afdeling, faculteit*
+- Koppeling te maken met meta-data en indicatoren<br>&emsp;&emsp;*citaties, aandacht van media, impact op beleid, SDGs*
+- Inzicht te geven om besluitvorming te verbeteren<br>&emsp;&emsp;*visualisaties, interactieve dashboards*
+:::
+
+::::: {.callout-note icon=false}
+## Hoe wordt dit gebruikt?
+
+:::: {.columns}
+
+::: {.column width="30%"}
+- SEP
+- Zelf-evaluaties
+:::
+::: {.column width="50%"}
+- Mogelijkheden voor samenwerking
+- Verkenning voor benoemingen
+:::
+
+::: {.column width="20%"}
+
+- &#8230;
+:::
+::::
+:::::
+
+::: {.notes}
+Goal of the slide: 
+Pitch what RI does 
+:::
+
+## Ondersteuning SEP Psychologie
+
+<iframe title="2023_psychologie_dashboard" width="1050" height="540" src="https://app.powerbi.com/reportEmbed?reportId=a7d3e194-083e-4ea0-8f3b-bf237d9cf9de&autoAuth=true&ctid=462a9c9c-2da6-4bfb-b318-0f83043fe49b" frameborder="0" allowFullScreen="true"></iframe>
+
+## Ondersteuning SEP Psychologie
+::: { .r-stack }
+![](img/psych-profile.png){.shadow width="80%" height="auto"}
+
+![](img/psych-collab.png){.fragment .shadow width="80%" height="auto"}
+
+![](img/psych-ssh.png){.fragment .shadow width="80%" height="auto"}
+
+![](img/psych-policy.png){.fragment .shadow width="80%" height="auto"}
+:::
+
+## Ontwikkelingen
+
+::: {.callout-note}
+## Nieuwe indicatoren
+Voor Erkennen en Waarderen<br/>
+Voor Open science<br/>
+Voor evaluatie en monitoring
+:::
+
+::: {.callout-note}
+## Nieuwe databronnen
+Open Research *Information*<br/>
+&emsp;&emsp;&#8618; Open Research *Assessment*
+:::
+
+## Open research information
+
+::: {.callout-note}
+## Context
+UB belangrijke rol in OS beweging<br>
+Beschikbaarheid open data<br>
+Nationale en internationale initiatieven
+:::
+
+::: {.fragment fragment-index=1 .absolute top="5%" left="10%" width="75%" height="auto"} 
+[![](img/openaire.png)](https://netherlands.openaire.eu/)
+:::
+
+::: {.fragment fragment-index=2 .shadow .absolute top="40%" left="25%" width="65%" height="auto"}
+[![](img/openalex.png)](https://openalex.org/works?page=1&filter=authorships.institutions.lineage%3Ai865915315,publication_year%3A2020-2023)
+:::
+
+## Nieuwe indicatoren
+
+::: {.callout-note}
+## E&W: Nieuwe verwachtingen, nieuwe evaluaties
+Meer dan 'publicaties tellen'<br>
+Meer nadruk op andere vormen van output en impact<br>
+Nieuwe indicatoren nodig
+:::
+
+## Relevantie voor SDGs
+
+[![](img/sdg-aurora.png)](https://aurora-universities.eu/sdg-research/dashboard/)
+
+## Open RI Tools:<br/>Samenwerking met mondiale zuiden
+
+![](img/tools-globalsouth.png)
+
+## Open RI Tools:<br/>Citaties in klinische trials
+
+[![](img/tools-clintrials.png)](https://ubvu.github.io/open-ri-tools/clinical_trials.html)
+
+## Samenwerkingen
+
+::: { .callout-note }
+## Klinische relevantie
+Machine learning tool om publicaties te classificeren<br/>voor mate van klinische toepasbaarheid
+:::
+
+::: { .callout-note }
+## Geautomatiseerde onderwerpsclassificatie
+Machine learning tool om geautomatiseerd *keywords*<br>te zoeken bij publicaties
+:::
+
+## &nbsp;
