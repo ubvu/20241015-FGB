@@ -28,9 +28,9 @@ format:
 
 ::: { .callout-note }
 ## Informatievoorziening
-Pure voor registratie<br>
-Toegang tot meta-data en afgeleide indicatoren<br>
-Advies over verantwoorde indicatoren
+- Pure voor registratie
+- Toegang tot meta-data en afgeleide indicatoren
+- Advies over verantwoorde indicatoren
 :::
 
 :::: { .fragment fragment-index=4 .fade-out }
@@ -46,9 +46,9 @@ Research Portal: <https://research.vu.nl/>
 :::: {.fragment fragment-index=4}
 ::: {.callout-note}
 ## Meer actieve ondersteuning
-Analyse en interpretatie</br>
-Focus op strategische beslissingen</br>
-🎉 Team Research Intelligence 🎉
+- Analyse en interpretatie
+- Focus op strategische beslissingen
+<!-- - 🎉 Team Research Intelligence 🎉 -->
 :::
 ::::
 
@@ -106,24 +106,24 @@ Pitch what RI does
 
 ::: {.callout-note}
 ## Nieuwe indicatoren
-Voor Erkennen en Waarderen<br/>
-Voor Open science<br/>
-Voor evaluatie en monitoring
+- Voor Erkennen en Waarderen
+- Voor Open science
+- Voor evaluatie en monitoring
 :::
 
 ::: {.callout-note}
 ## Nieuwe databronnen
-Open Research *Information*<br/>
-&emsp;&emsp;&#8618; Open Research *Assessment*
+- Open Research *Information*
+- &emsp;&emsp;&#8618; Open Research *Assessment*
 :::
 
 ## Open research information
 
 ::: {.callout-note}
 ## Context
-UB belangrijke rol in OS beweging<br>
-Beschikbaarheid open data<br>
-Nationale en internationale initiatieven
+- UB belangrijke rol in OS beweging
+- Beschikbaarheid open data
+- Nationale en internationale initiatieven
 :::
 
 ::: {.fragment fragment-index=1 .absolute top="5%" left="10%" width="75%" height="auto"} 
@@ -138,9 +138,9 @@ Nationale en internationale initiatieven
 
 ::: {.callout-note}
 ## E&W: Nieuwe verwachtingen, nieuwe evaluaties
-Meer dan 'publicaties tellen'<br>
-Meer nadruk op andere vormen van output en impact<br>
-Nieuwe indicatoren nodig
+- Meer dan 'publicaties tellen'
+- Meer nadruk op andere vormen van output en impact
+- Nieuwe indicatoren nodig
 :::
 
 ## Relevantie voor SDGs
@@ -155,7 +155,7 @@ Nieuwe indicatoren nodig
 
 [![](img/tools-clintrials.png)](https://ubvu.github.io/open-ri-tools/clinical_trials.html)
 
-## Samenwerkingen
+## Samenwerkingen met onderzoekers
 
 ::: { .callout-note }
 ## Klinische relevantie
